@@ -1,0 +1,10 @@
+# Sample inputs: none of these should collide with a full-length digest.
+hello
+Hello
+hello 
+world
+password
+passw0rd
+The quick brown fox jumps over the lazy dog
+The quick brown fox jumps over the lazy dog.
+hello
