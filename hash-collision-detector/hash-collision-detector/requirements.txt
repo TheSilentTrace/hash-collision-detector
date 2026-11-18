@@ -1,0 +1,3 @@
+# Hash Collision Detector uses only the Python 3 standard library
+# (hashlib, argparse, json, dataclasses, unittest). No packages to install.
+# Requires Python 3.8 or newer.
